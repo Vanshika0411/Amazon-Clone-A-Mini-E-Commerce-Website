@@ -1,1 +1,3 @@
-# Amazon-Clone-A-Mini-E-Commerce-Website
+# Amazon-Clone-A-Mini-E-Commerce-WebsiteProject Description:
+The Amazon Clone Project is a simplified replica of the Amazon e-commerce platform, built to simulate core functionalities of an online shopping website. It allows users to browse products, view product details, add items to a cart, and proceed to checkout. The clone is implemented using HTML, CSS, JavaScript.
+The project is ideal for learning and practicing web development concepts, including frontend design, responsive layouts, and integration of dynamic functionality...
